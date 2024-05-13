@@ -1,0 +1,11 @@
+Comandos
+
+SSH
+
+ssh-keygen       
+Enter até o final
+cd ~/.ssh
+cat id_rsa.pub 
+
+
+Copia cola e a ultima linha n é em branco
